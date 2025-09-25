@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Load CSV
+# Load CS
 df = pd.read_csv("/Users/chanrattnakmong/Desktop/TILT/TILT_Projects/course-avg-interaction-per-student.csv")
 
 # Handle possible nulls
